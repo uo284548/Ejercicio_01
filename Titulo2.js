@@ -1,1 +1,3 @@
-document.write("<h2>"+info.titulacion+"<h2>");
+document.write("<h2>");
+document.write(info.titulacion);
+document.write("</h2>");

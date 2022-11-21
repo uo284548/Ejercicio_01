@@ -1,1 +1,3 @@
-document.write("<h3>"+info.centro+"<h3>");
+document.write("<h3>");
+document.write(info.centro);
+document.write("</h3>");

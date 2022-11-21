@@ -1,1 +1,3 @@
-document.write("<h1>"+info.asignatura+"<h1>");
+document.write("<h1>");
+document.write(info.asignatura);
+document.write("</h1>");
